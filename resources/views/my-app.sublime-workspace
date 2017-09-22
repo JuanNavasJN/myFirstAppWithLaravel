@@ -1,0 +1,659 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"session_d",
+				"session_destroy"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"env",
+				"enviado"
+			],
+			[
+				"envi",
+				"enviarA"
+			],
+			[
+				"mensaje",
+				"mensajePreparado"
+			],
+			[
+				"er",
+				"errores"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"filter_",
+				"filter_var"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"calc",
+				"calcularAreaTriangulo"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"text",
+				"texto2"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"prevent",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"conta",
+				"contador"
+			],
+			[
+				"opaci",
+				"opacity\t Style CSS"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"fa",
+				"fa-play"
+			],
+			[
+				"currentT",
+				"currentTime"
+			],
+			[
+				"ou",
+				"outline"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"volu",
+				"volumen"
+			],
+			[
+				"wri",
+				"write\t( text_..: DOMString ): void Document"
+			],
+			[
+				"wrap",
+				"flex-wrap"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"w",
+				"write\t( text_..: DOMString ): void Document"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"validar",
+				"validarFormulario"
+			],
+			[
+				"validarN",
+				"validarNombre"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contact.blade.php",
+			"settings":
+			{
+				"buffer_size": 7188,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/juannavas/sites/my-app/Procfile",
+			"settings":
+			{
+				"buffer_size": 42,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/juannavas/sites/my-app/.env",
+			"settings":
+			{
+				"buffer_size": 594,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 232.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"The",
+				"Theme Tweaker: Toggle Tweak Mode"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/juannavas/sites/my-app",
+		"/Users/juannavas/sites/my-app/public",
+		"/Users/juannavas/sites/my-app/resources",
+		"/Users/juannavas/sites/my-app/resources/views",
+		"/Users/juannavas/sites/my-app/resources/views/emails",
+		"/Users/juannavas/sites/my-app/resources/views/errors",
+		"/Users/juannavas/sites/my-app/routes"
+	],
+	"file_history":
+	[
+		"/Users/juannavas/sites/my-app/.env",
+		"/Users/juannavas/sites/my-app/routes/web.php",
+		"/Users/juannavas/sites/my-app/resources/views/emails/messages.blade.php",
+		"/Users/juannavas/sites/my-app/Procfile",
+		"/Users/juannavas/sites/my-app/config/mail.php",
+		"/Users/juannavas/sites/my-app/resources/views/errors/404.blade.php",
+		"/Users/juannavas/sites/my-app/resources/views/layout.blade.php",
+		"/Users/juannavas/sites/my-app/resources/views/home.blade.php",
+		"/Users/juannavas/sites/my-app/resources/views/contact.blade.php",
+		"/Users/juannavas/sites/my-app/resources/views/about.blade.php",
+		"/Users/juannavas/sites/my-app/resources/views/service.blade.php",
+		"/Users/juannavas/Desktop/timer/css/responsive.css",
+		"/Users/juannavas/sites/my-app/resources/views/my-app.sublime-project",
+		"/Applications/MAMP/htdocs/Curso_PHP/cookies/texto.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/cookies/index.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/sesiones/cerrar.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/sesiones/pagina2.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/sesiones/index.php",
+		"/Applications/MAMP/htdocs/portafolio/php/index5.view.php",
+		"/Applications/MAMP/htdocs/portafolio/css/estilos5.css",
+		"/Applications/MAMP/htdocs/portafolio/css/estilos.css",
+		"/Applications/MAMP/htdocs/portafolio/js/main.js",
+		"/Applications/MAMP/htdocs/portafolio/index.view.php",
+		"/Applications/MAMP/htdocs/portafolio/js/efectos.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/practicas/flexbox/estilos.css",
+		"/Users/juannavas/Documents/Cursos/Front-End/css/flexbox.css",
+		"/Users/juannavas/Documents/Cursos/Front-End/css/float.css",
+		"/Applications/MAMP/htdocs/portafolio/php/index5.php",
+		"/Applications/MAMP/htdocs/portafolio/index.php",
+		"/Applications/MAMP/htdocs/portafolio/index.view.html",
+		"/Applications/MAMP/htdocs/portafolio/php/index.view.php",
+		"/Applications/MAMP/htdocs/portafolio/php/index4.php",
+		"/Applications/MAMP/htdocs/portafolio/php/main.php",
+		"/Applications/MAMP/htdocs/portafolio/index.html",
+		"/Users/juannavas/Documents/GitHub/portafolio/js/enviarForm.js",
+		"/Users/juannavas/Documents/GitHub/portafolio/css/estilos.css",
+		"/Users/juannavas/Documents/GitHub/portafolio/html/index4.html",
+		"/Users/juannavas/Documents/GitHub/portafolio/index.html",
+		"/Users/juannavas/Documents/GitHub/portafolio/js/form.js",
+		"/Applications/MAMP/htdocs/Curso_PHP/practicas/formulario contacto/estilos.css",
+		"/Applications/MAMP/htdocs/Curso_PHP/practicas/formulario contacto/index.view.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/practicas/formulario contacto/index.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/codigosClaves.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/formularios/formulario.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/formularios/valida_envio.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/formularios/index.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/formularios/recibe.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/die.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/include_require/vista.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/include_require/index.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/funciones_matematicas.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/funciones_arreglos.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/funciones_cadenas_texto.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/ejemplo_funciones.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/funciones.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/var_dump_print_r.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/break_continue.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/recorrer_arreglo.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/ciclos.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/contar_elementos_arreglos.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/arreglos.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/arreglo_asociativo.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/arreglos_multidimensionales.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/atajo_if.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/switch.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/operadores.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/condicionales.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/ordenar.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/constantes.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/variables.php",
+		"/Applications/MAMP/htdocs/Curso_PHP/hola_mundo.php",
+		"/Users/juannavas/Desktop/clave.txt",
+		"/Users/juannavas/Documents/GitHub/portafolio/html/index3.html",
+		"/Users/juannavas/Documents/GitHub/portafolio/js/main.js",
+		"/Users/juannavas/Documents/GitHub/portafolio/js/efectos.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/practicas/restaurante/index.html",
+		"/Users/juannavas/Documents/GitHub/portafolio/css/estilos4.css",
+		"/Users/juannavas/Documents/GitHub/portafolio/css/estilos copia.css",
+		"/Users/juannavas/Documents/GitHub/portafolio/notas.txt",
+		"/Users/juannavas/Documents/Cursos/Front-End/practicas/restaurante/js/efectos.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/practicas/restaurante/js/parallax.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/practicas/restaurante/css/estilos.css",
+		"/Users/juannavas/Documents/Cursos/PDF's/4th_edition_examples/26/example26-1.php",
+		"/Users/juannavas/Downloads/4th_edition_examples/3/example3-2.php",
+		"/Users/juannavas/Downloads/4th_edition_examples/3/example3-1.php",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/medidas.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/medidas.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/trabajandoClass.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/trabajandoClass.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/eliminandoElementos.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/eliminandoElementos.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/agregandoElementos.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/agregandoElementos.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/manipulandoDom.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/manipulandoDom.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/callbacks.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/callbacks.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/stop.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/stop.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/animaciones.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/animaciones.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/this.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/this.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/eventos.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/eventos.html",
+		"/eventos.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/filtrar.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/filtrar.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/dom.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/dom.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/efectos.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/efectos.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/selectores.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/selectores.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/introduccion.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/introduccion.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/JQuery/inroduccion.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/javascript/localStorage.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/javascript/reproductor/index.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/javascript/reproductor/estilos.css",
+		"/Users/juannavas/Documents/Cursos/Front-End/javascript/reproductor/reproductor.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/javascript/audioVideo.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/javascript/audioVideo.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/javascript/index.html",
+		"/Users/juannavas/Documents/Cursos/Front-End/javascript/calculadora/estilos.css",
+		"/Users/juannavas/Documents/Cursos/Front-End/javascript/calculadora/calculadora.js",
+		"/Users/juannavas/Documents/Cursos/Front-End/javascript/calculadora/index.html",
+		"/Users/juannavas/Desktop/f.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\n",
+			"ascendente",
+			"art",
+			"audio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contact.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5407,
+								5407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1429.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/juannavas/sites/my-app/Procfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/juannavas/sites/my-app/.env",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "my-app.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
